@@ -9,3 +9,7 @@ npm start
 ```
 
 Navigate to http://localhost:3001 for a UI to test and http://localhost:3000 for the Solid Pod.
+
+The login for CSS is:
+ - email: test@example.com
+ - password: 123456
