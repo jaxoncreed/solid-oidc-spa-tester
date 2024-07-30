@@ -1,0 +1,1 @@
+{"key":"idp/keys/jwks","payload":{"keys":[{"kty":"EC","x":"8BV-Y68hjH3QF5VYgBJAjXaNwNn77lWfoYXF6agQh_U","y":"5hkSuIP_SNTd2XoPQnlncMKvJ0ENZRx78D5ltIYEOeE","crv":"P-256","d":"H2wnKBWMfe4pMECu9tiUj9c7YuGk5cwFfy58fgY_rpw","alg":"ES256"}]}}
